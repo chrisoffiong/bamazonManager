@@ -3,7 +3,7 @@ Welcome to Bamazon!
 Bamazon is a node based application that allows it's users to purchase items based on an inventory saved inside
 the local MYSQL database.
 Upon entry to Bamazon a user is shown a list of all the available items for purchase, including the department the item is stored in, its ID, the product name and amount of item as shown below.
-
+![alt text](chrisoffiong/bamazonManager/blob/master/assets/images/1.jpg)
 After the user selects an item they would like to purchase, they are prompted the ID of the item they would like and the amount of the item they would like to purchase. If the user inputs a value higher than the amount remaining in the inventory they will be sent back an error stating that there is not enough of the item to complete the purchase.
 
 If there is enough of the product left to purchase, the user will be charged for the amount and the items will be subtracted from the Stock Quantity in the database on SQL.
