@@ -11,7 +11,7 @@ After the user selects an item they would like to purchase, they are prompted th
 ![Scheme](assets/images/2.jpg)
 #
 If there is enough of the product left to purchase, the user will be charged for the amount and the items will be subtracted from the Stock Quantity in the database on SQL.
-#
+
 ![Scheme](assets/images/3.jpg)
 On the Bamazon Manager side of the application. Management Level users are able to come and either View the Current Products, Check the Low Inventory, Add to the current Inventory of an item or Add an entirely New Product.
 #
@@ -26,5 +26,6 @@ Upon clicking Add Inventory the user will be given an option of which item they 
 #
 ![Scheme](assets/images/7.jpg)
 The final functionality of this node application allows the management team to add a new inventory item. Upon choose this option, the user will be prompted what item they'd like to add, which department it's going to be put in, the amount of the item, and the price.
-#
+
 ![Scheme](assets/images/8.jpg)
+#
